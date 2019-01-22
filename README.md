@@ -1,4 +1,4 @@
-# A simple JSON-RPC server for Go
+# A simple JSON-RPC server Golang
 
 ## Installation
 
